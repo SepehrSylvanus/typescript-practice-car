@@ -5,7 +5,7 @@ import { Navbar } from "@/components";
 import Foofter from "@/components/Foofter";
 
 export const metadata: Metadata = {
-  title: "Cat hub",
+  title: "Car hub",
   description: "Discover the best cars in the world",
 };
 
