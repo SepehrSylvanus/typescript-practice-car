@@ -42,7 +42,7 @@ const SearchBar = () => {
     } else {
       searchParams.delete("model");
     }
-    if (model) {
+    if (manufacturer) {
       searchParams.set("manufacturer", manufacturer);
     } else {
       searchParams.delete("manufacturer");
